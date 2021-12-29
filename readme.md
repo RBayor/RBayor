@@ -41,7 +41,7 @@
 
 [![Rolands's GitHub stats](https://github-readme-stats.vercel.app/api?username=RBayor&count_private=true&show_icons=true&theme=dark)](https://github.com/RBayor/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RBayor&langs_count=10&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RBayor&langs_count=5&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
