@@ -2,12 +2,14 @@
 
 ### A little about me
 
-- I have a BSc in Computer Science from KNUST 📃
-- I enjoying running! 100m sprint anyone? 🏃🏾‍♂️💨
-- The endless possibility of what can be done with software keeps me very curious! 🐈‍⬛
-- I currently live in Ghana - West Africa 🌍
-- [I am a co-founder at Platinum Dev LTD][website]
-- [I have a hostel site you should check out][hostel]
+- 📃 I have a BSc in Computer Science from KNUST
+- 🏃🏾‍♂️ I enjoying running! 100m sprint anyone?
+- 🐈‍⬛ The endless possibility of what can be done with software keeps me very curious!
+- 🌍 I currently live in Ghana - West Africa
+- 👨🏾 [I am a co-founder at Platinum Dev LTD][website]
+- 🏡 [I have a hostel site you should check out][hostel]
+
+---
 
 ### Connect with me:
 
@@ -15,12 +17,13 @@
 [<img align="left" alt="Roland | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Roland | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+---
+
 ### Languages and Tool
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][website]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
