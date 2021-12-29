@@ -39,7 +39,7 @@
 
 ---
 
-[![Rolands's GitHub stats](https://github-readme-stats.vercel.app/api?username=RBayor?count_private=true&show_icons=true&theme=dark)](https://github.com/RBayor/github-readme-stats)
+[![Rolands's GitHub stats](https://github-readme-stats.vercel.app/api?username=RBayor&count_private=true&show_icons=true&theme=dark)](https://github.com/RBayor/github-readme-stats)
 <br />
 <br />
 
