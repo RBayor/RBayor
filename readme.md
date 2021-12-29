@@ -16,11 +16,12 @@
 [<img align="left" alt="Roland | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Roland | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Roland | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
----
+<br />
 
 ### Languages and Tool
 
+[<img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/30560029/147668454-4a66abb1-bb0e-49b0-b562-5d15e853e6a2.png" />][website]
+[<img align="left" alt="Typescript" width="26px" src="https://user-images.githubusercontent.com/30560029/147668427-78786e05-cb7c-4e24-9b2a-40efa0d67071.png" />][website]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
