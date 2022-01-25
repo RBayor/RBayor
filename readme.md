@@ -41,9 +41,16 @@
 
 ---
 
-[![Rolands's GitHub stats](https://github-readme-stats.vercel.app/api?username=RBayor&count_private=true&show_icons=true&theme=dark)](https://github.com/RBayor/github-readme-stats)
+<summary><b>Github Contribution Graph</b></summary>
+<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RBayor&theme=github_dark" alt="Roland Bayor" align = "center"/></p>
+<!-- [![Rolands's GitHub stats](https://github-readme-stats.vercel.app/api?username=RBayor&count_private=true&show_icons=true&theme=dark)](https://github.com/RBayor/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RBayor&langs_count=5&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<summary><b>Github Contribution Graph</b></summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RBayor&langs_count=5&theme=dark&layout=compactt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<summary><b>Github Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Roland Bayor" src="https://activity-graph.herokuapp.com/graph?username=RBayor&bg_color=0D1117&color=BF40BF&line=BF40BF&point=FFFFFF&hide_border=true&" /></a></p>
 
 <br />
 <br />
