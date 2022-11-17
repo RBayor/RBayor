@@ -6,7 +6,6 @@
 - 🏃🏾‍♂️ I enjoying running! 100m sprint anyone?
 - 🐈‍⬛ The endless possibility of what can be done with software keeps me very curious!
 - 🌍 I currently live in Ghana - West Africa
-- 👨🏾 [I am a co-founder at Platinum Dev LTD][website]
 - 🏡 [I have a hostel site you should check out][hostel]
 - 📃 [I have a few IBM certificates][ibm]
 
