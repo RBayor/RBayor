@@ -3,7 +3,7 @@
 ### A little about me
 
 - 📃 I have a BSc in Computer Science from KNUST
-- 🏃🏾‍♂️ I enjoying running! 100m sprint anyone?
+- 🏃🏾‍♂️ I enjoy running! 100m sprint anyone?
 - 🐈‍⬛ The endless possibility of what can be done with software keeps me very curious!
 - 🌍 I currently live in Ghana - West Africa
 - 🏡 [I have a hostel site you should check out][hostel]
