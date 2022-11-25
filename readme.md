@@ -8,6 +8,8 @@
 - 🌍 I currently live in Ghana - West Africa
 - 🏡 [I have a hostel site you should check out][hostel]
 - 📃 [I have a few IBM certificates][ibm]
+- [My twitter][twitter]
+- [My linkedIn][linkedin]
 
 ---
 
