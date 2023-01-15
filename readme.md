@@ -1,64 +1,60 @@
-## Hello! I'm Roland. Welcome to my Github
+---Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Roland Bayor
+====================================================================================================================================
 
-### A little about me
+I am a budding developer exploring the world of software!
+---------------------------------------------------------
 
-- 📃 I have a BSc in Computer Science from KNUST
-- 🏃🏾‍♂️ I enjoy running! 100m sprint anyone?
-- 🐈‍⬛ The endless possibility of what can be done with software keeps me very curious!
-- 🌍 I currently live in Ghana - West Africa
-- 🏡 [I have a hostel site you should check out][hostel]
-- 📃 [I have a few IBM certificates][ibm]
-- [My twitter][twitter]
-- [My linkedIn][linkedin]
+I have been writing professional programs since 2020 - the year of the virus which must not be named. I do a lot of web and mobile development. Programming languages are tools; What do they say about the right tools and jobs again? I love writing exciting software to solve real-world problems. However, I do enjoy goofing around with all sorts of languages to understand better Perf and DX. Reading can only tell you so much. Read then experiment! - Mostly I experiment, get stuck then read but hey that's just how I like to do it.
 
----
+* 🌍 I currently live in Ghana - West Africa
+* 📃 I have a BSc in Computer Science from KNUST
+* 🧠 I'm learning Rust
+* 🏡 [I have a hostel site you should check out][hostel]
+* 📃 [I have a few IBM certificates][ibm]
+* 🐈‍⬛ The endless possibility of what can be done with software keeps me very curious!
+* ⚡  Race me 100m. Lets go
 
-### Connect with me:
+<a href="https://www.github.com/RBayor" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/RBayor?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/TheRealRoland_" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/TheRealRoland_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
 
-[<img align="left" alt="Roland | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Roland | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Roland | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<br />
+### Skills
 
-### Languages and Tool
 
-[<img align="left" alt="Flutter" width="26px" src="https://user-images.githubusercontent.com/30560029/147668454-4a66abb1-bb0e-49b0-b562-5d15e853e6a2.png" />][website]
-[<img align="left" alt="Typescript" width="26px" src="https://user-images.githubusercontent.com/30560029/147668427-78786e05-cb7c-4e24-9b2a-40efa0d67071.png" />][website]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-<br />
-<br />
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
----
 
-<summary><b>Github Contribution Graph</b></summary>
-<!-- <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RBayor&theme=github_dark" alt="Roland Bayor" align = "center"/></p> -->
+### Socials
 
-[![Rolands's GitHub stats](https://github-readme-stats.vercel.app/api?username=RBayor&count_private=true&show_icons=true&theme=dark)](https://github.com/RBayor/github-readme-stats)
+<p align="left"> <a href="https://www.github.com/RBayor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/roland-bayor" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/TheRealRoland_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-<summary><b>My most used languages</b></summary>
+### Badges
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RBayor&langs_count=5&theme=dark&layout=compactt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<b>My GitHub Stats</b>
 
-<!-- <summary><b>Github Contribution Graph</b></summary> -->
-<!-- <p align="center"<a href="#"><img alt="Roland Bayor" src="https://activity-graph.herokuapp.com/graph?username=RBayor&bg_color=0D1117&color=BF40BF&line=BF40BF&point=FFFFFF&hide_border=true&" /></a></p> -->
+<a href="http://www.github.com/RBayor"><img src="https://github-readme-stats.vercel.app/api?username=RBayor&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RBayor's GitHub stats" /></a>
 
-<br />
-<br />
+<a href="http://www.github.com/RBayor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RBayor&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/RBayor"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=RBayor&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/RBayor" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RBayor&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 [website]: https://platinumdev.netlify.app/
-[twitter]: https://twitter.com/TheRealRoland_
-[linkedin]: https://www.linkedin.com/in/roland-bayor/
-[instagram]: https://www.instagram.com/rolandbayor/
 [hostel]: https://hostelhubgh.com/
 [ibm]: https://www.credly.com/users/roland-bayor
