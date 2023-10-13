@@ -3,7 +3,7 @@
 
 ### I am a software developer exploring the world of engineering!
 ---------------------------------------------------------
-I have been writing professional programs since 2020 - the year of the virus which must not be named. I do a lot of web and mobile development. Programming languages are tools; What do they say about the right tools and jobs again? I love writing exciting software to solve real-world problems. However, I do enjoy goofing around with all sorts of languages to understand better Perf and DX. Reading can only tell you so much. Read then experiment! - Mostly I experiment, get stuck then read but hey that's just how I like to do it.
+I have been writing professional programs since 2020. I mainly build web and mobile applications. Programming languages are tools; What do they say about the right tools and jobs again? I love writing exciting software to solve real-world problems. However, I also enjoy goofing around with all sorts of languages to understand Perf and DX better. Reading can only tell you so much. Read then experiment! - Mostly I experiment, get stuck then read but hey that's just how I like to do it.
 
 * 🌍 I currently live in Ghana - West Africa
 * 📃 I have a BSc in Computer Science from KNUST
@@ -11,7 +11,7 @@ I have been writing professional programs since 2020 - the year of the virus whi
 * 🏡 [I have a hostel site you should check out][hostel]
 * 📃 [I have a few IBM certificates][ibm]
 * 🐈‍⬛ The endless possibility of what can be done with software keeps me very curious!
-* ⚡  Race me 100m. Lets go
+* ⚡  Race me 100m. Let's go
 
 <a href="https://www.github.com/RBayor" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RBayor?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/TheRealRoland_" target="_blank" rel="noreferrer"><img
@@ -53,5 +53,5 @@ src="https://img.shields.io/twitter/follow/TheRealRoland_?logo=twitter&style=for
 
 
 [website]: https://platinumdev.netlify.app/
-[hostel]: https://hostelhubgh.com/
+[hostel]: https://hostels.platinumgroupe.cc/
 [ibm]: https://www.credly.com/users/roland-bayor
