@@ -1,7 +1,7 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)HI, I am Roland
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi, I am Roland
 ====================================================================================================================================
 
-### I am a software developer exploring the world of engineering!
+### I am a software developer exploring the world of engineering
 ---------------------------------------------------------
 I have been writing professional programs since 2020. I mainly build web and mobile applications. Programming languages are tools; What do they say about the right tools and jobs again? I love writing exciting software to solve real-world problems. However, I also enjoy goofing around with all sorts of languages to understand Perf and DX better. Reading can only tell you so much. Read then experiment! - Mostly I experiment, get stuck then read but hey that's just how I like to do it.
 
