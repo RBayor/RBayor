@@ -55,4 +55,4 @@ src="https://img.shields.io/twitter/follow/TheRealRoland_?logo=twitter&style=for
 [website]: https://platinumdev.netlify.app/
 [hostel]: https://hostels.platinumgroupe.cc/
 [ibm]: https://www.credly.com/users/roland-bayor
-[platinumgroupe]: platinumgroupe.css
+[platinumgroupe]: platinumgroupe.cc
