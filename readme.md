@@ -6,8 +6,8 @@
 I have been writing professional programs since 2020. I mainly build web and mobile applications. Programming languages are tools; What do they say about the right tools and jobs again? I love writing exciting software to solve real-world problems. However, I also enjoy goofing around with all sorts of languages to understand Perf and DX better. Reading can only tell you so much. Read then experiment! - Mostly I experiment, get stuck then read but hey that's just how I like to do it.
 
 * 🌍 I currently live in Ghana - West Africa
+* ⚙️ Building some real estate stuff - [Platinum Groupe][platinumgroupe]
 * 📃 I have a BSc in Computer Science from KNUST
-* 🧠 I'm learning Rust
 * 🏡 [I have a hostel site you should check out][hostel]
 * 📃 [I have a few IBM certificates][ibm]
 * 🐈‍⬛ The endless possibility of what can be done with software keeps me very curious!
@@ -55,3 +55,4 @@ src="https://img.shields.io/twitter/follow/TheRealRoland_?logo=twitter&style=for
 [website]: https://platinumdev.netlify.app/
 [hostel]: https://hostels.platinumgroupe.cc/
 [ibm]: https://www.credly.com/users/roland-bayor
+[platinumgroupe]: platinumgroupe.css
