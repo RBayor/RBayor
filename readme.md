@@ -12,6 +12,7 @@ I have been writing professional programs since 2020. I mainly build web and mob
 * 📃 [I have a few IBM certificates][ibm]
 * 🐈‍⬛ The endless possibility of what can be done with software keeps me very curious!
 * ⚡  Race me 100m. Let's go
+* You should check out my [Blog][blog]
 
 <a href="https://www.github.com/RBayor" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RBayor?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/TheRealRoland_" target="_blank" rel="noreferrer"><img
@@ -56,3 +57,4 @@ src="https://img.shields.io/twitter/follow/TheRealRoland_?logo=twitter&style=for
 [hostel]: https://hostels.platinumgroupe.cc/
 [ibm]: https://www.credly.com/users/roland-bayor
 [platinumgroupe]: https://platinumgroupe.cc/
+[blog]: https://rolandbayor.vercel.app/
