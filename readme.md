@@ -7,9 +7,8 @@ I have been writing professional programs since 2020. I mainly build web and mob
 
 * You should check out my [Blog][blog]
 * 🌍 I currently live in Ghana - West Africa
-* ⚙️ Building some real estate stuff - [Platinum Groupe][platinumgroupe]
+* ⚙️ I am building - [SleepyPages][sleepypages]
 * 📃 I have a BSc in Computer Science from KNUST
-* 🏡 [I have a hostel site you should check out][hostel]
 * 📃 [I have a few IBM certificates][ibm]
 * 🐈‍⬛ The endless possibility of what can be done with software keeps me very curious!
 * ⚡  Race me 100m. Let's go
@@ -54,7 +53,6 @@ src="https://img.shields.io/twitter/follow/TheRealRoland_?logo=twitter&style=for
 
 
 [website]: https://platinumdev.netlify.app/
-[hostel]: https://hostels.platinumgroupe.cc/
 [ibm]: https://www.credly.com/users/roland-bayor
-[platinumgroupe]: https://platinumgroupe.cc/
+[sleepypages]: https://sleepypages.com/
 [blog]: https://rolandbayor.vercel.app/
